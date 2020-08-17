@@ -40,3 +40,6 @@ Journal of Network and Computer Applications, 2014.
 [Towards an Error Control Scheme for a Publish/Subscribe Network](https://mm.aueb.gr/publications/2013-ECOPSUN-ICC.pdf)  
 C. Stais, A. Voulimeneas and G. Xylomenos.  
 In 2013 International Conference on Communications (ICC' 13).  
+
+## [](#header-2) Professional Service
+Student Program Committee Member, IEEE Symposium on Security and Privacy (IEEE S&P), 2018.
