@@ -4,11 +4,9 @@ layout: default
 
 ![](IMG_2181.jpg){:height="35%" width="35%"}
 
-## [](#header-2)News
-
-I am happy to announce that I will be a Postdoctoral Scholar in the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's - Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
-
 ## [](#header-2)Bio
+
+I am a Postdoctoral Scholar in the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's - Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
 
 I obtained my PhD degree from [UC Irvine](https://uci.edu/) in 2020 under the supervision of Professor [Michael Franz](http://www.michaelfranz.com/).
 In my [PhD dissertation](https://escholarship.org/uc/item/2719443b), I proposed new techniques to improve the security and performance of N-Variant systems. Before that, I completed my undergraduate studies at [Athens University of Economics and Business/Department of Informatics, Greece]((https://www.dept.aueb.gr/en/cs)). I have also done internships at Oracle Labs and Apple. You can contact me at avoulime AT uci DOT edu if you have interest or questions in any of my papers.
