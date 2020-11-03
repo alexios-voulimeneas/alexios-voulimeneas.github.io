@@ -41,7 +41,7 @@ In 2013 International Conference on Communications (ICC' 13).
 
 ## [](#header-2) Professional Service
 
-Program & Review Commitee, Reversing and Offensive-oriented Trends Symposium (ROOTS), 2020.
+Program & Review Committee, Reversing and Offensive-oriented Trends Symposium (ROOTS), 2020.
 
 Artifact Evaluation Committee Member, USENIX Symposium on Operating Systems Design and Implementation (USENIX OSDI), 2020. 
 
