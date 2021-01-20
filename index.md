@@ -24,7 +24,7 @@ My research interests include:
 Alexios Voulimeneas, Dokyung Song, Per Larsen, Michael Franz, and Stijn Volckaert.  
 (preprint arXiv:2011.02091, 2020).  
 
-[Distributed Heterogeneous N-Variant Execution](https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_11.pdf)  
+[Distributed Heterogeneous N-Variant Execution](./papers/dimva20-paper27-final.pdf)  
 Alexios Voulimeneas, Dokyung Song, Fabian Parzefall, Yeoul Na, Per Larsen, Michael Franz, and Stijn Volckaert.  
 In 2020 International Conference on Detection of Intrusions and Malware
 & Vulnerability Assessment (DIMVA' 2020).  
