@@ -21,7 +21,7 @@ My research interests include:
 
 ## [](#header-2)Publications
 [dMVX: Secure and Efficient Multi-Variant Execution in a Distributed Setting](https://arxiv.org/pdf/2011.02091.pdf)  
-Alexios Voulimeneas, Dokyung Song, Per Larsen, Michael Franz, and Stijn Volckaert.
+Alexios Voulimeneas, Dokyung Song, Per Larsen, Michael Franz, and Stijn Volckaert.  
 In European Workshop on Systems Security (EuroSec 2021).
 
 [Distributed Heterogeneous N-Variant Execution](./papers/dimva20-paper27-final.pdf)  
