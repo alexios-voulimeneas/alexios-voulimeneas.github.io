@@ -21,27 +21,27 @@ My research interests include:
 
 ## [](#header-2)Publications
 [dMVX: Secure and Efficient Multi-Variant Execution in a Distributed Setting](https://arxiv.org/pdf/2011.02091.pdf)  
-Alexios Voulimeneas, Dokyung Song, Per Larsen, Michael Franz, and Stijn Volckaert.  
-(preprint arXiv:2011.02091, 2020).  
+Alexios Voulimeneas, Dokyung Song, Per Larsen, Michael Franz, and Stijn Volckaert.
+In European Workshop on Systems Security (EuroSec 2021).
 
 [Distributed Heterogeneous N-Variant Execution](./papers/dimva20-paper27-final.pdf)  
 Alexios Voulimeneas, Dokyung Song, Fabian Parzefall, Yeoul Na, Per Larsen, Michael Franz, and Stijn Volckaert.  
-In 2020 International Conference on Detection of Intrusions and Malware
+In International Conference on Detection of Intrusions and Malware
 & Vulnerability Assessment (DIMVA' 2020).  
 **[Acceptance Rate: 13/45=28.9%]**
 
 [Secure and Efficient Application Monitoring and Replication](https://people.cs.kuleuven.be/~stijn.volckaert/papers/2016_ATC_ReMon.pdf)  
 Stijn Volckaert, Bart Coppens, Alexios Voulimeneas, Andrei Homescu, Per Larsen, Bjorn De Sutter, and Michael Franz.  
-In 2016 USENIX Annual Technical Conference (ATC'16), pages 167-179. USENIX, 2016.  
+In USENIX Annual Technical Conference (ATC'16), pages 167-179. USENIX, 2016.  
 **[Acceptance Rate: 47/266=17.6%]**
 
 [A Reliable Multicast Transport Protocol for Information-Centric Networks](https://mm.aueb.gr/publications/2014-RMTPSI-JNCA.pdf)  
 C. Stais, G. Xylomenos and A. Voulimeneas.  
-Journal of Network and Computer Applications, 2014.  
+In Journal of Network and Computer Applications, 2014.  
 
 [Towards an Error Control Scheme for a Publish/Subscribe Network](https://mm.aueb.gr/publications/2013-ECOPSUN-ICC.pdf)  
 C. Stais, A. Voulimeneas and G. Xylomenos.  
-In 2013 International Conference on Communications (ICC' 13).  
+In International Conference on Communications (ICC' 13).  
 
 ## [](#header-2) Professional Service
 
