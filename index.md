@@ -47,7 +47,7 @@ In International Conference on Communications (ICC' 13).
 
 External Reviewer, European Conference on Computer Systems (EuroSys), 2021.
 
-Program & Review Committee, Reversing and Offensive-oriented Trends Symposium (ROOTS), 2020, 2021.
+Program & Review Committee, Reversing and Offensive-oriented Trends Symposium (ROOTS), 2021.
 
 Artifact Evaluation Committee Member, USENIX Symposium on Operating Systems Design and Implementation (USENIX OSDI), 2020. 
 
