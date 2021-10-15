@@ -20,6 +20,10 @@ My research interests include:
 *   Computer Networks and Distributed Systems
 
 ## [](#header-2)Publications
+[Garmr: Defending the gates of PKU-based sandboxing](https://arxiv.org/pdf/2110.04788.pdf)  
+Alexios Voulimeneas, Jonas Vinck, Ruben Mechelinck, and Stijn Volckaert.  
+arXiv preprint, 2021.
+
 [dMVX: Secure and Efficient Multi-Variant Execution in a Distributed Setting](https://arxiv.org/pdf/2011.02091.pdf)  
 Alexios Voulimeneas, Dokyung Song, Per Larsen, Michael Franz, and Stijn Volckaert.  
 In European Workshop on Systems Security (EuroSec 2021).
