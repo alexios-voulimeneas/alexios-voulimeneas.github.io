@@ -56,7 +56,7 @@ In International Conference on Communications (ICC'13).
 
 ## [](#header-2) Professional Service
 
-Artifact Evaluation Committee Member, Programming Language Design and Implementation (PLDI), 2022.
+Artifact Evaluation Committee Member, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
 
 Artifact Evaluation Committee Member, European Conference on Computer Systems (EuroSys), 2022. 
 
