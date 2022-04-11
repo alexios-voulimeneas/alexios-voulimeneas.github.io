@@ -37,6 +37,10 @@ Jonas Vinck, Bert Abrath, Bart Coppens, Alexios Voulimeneas, Bjorn De Sutter, an
 Alexios Voulimeneas, Dokyung Song, Per Larsen, Michael Franz, and Stijn Volckaert.  
 In European Workshop on Systems Security (EuroSec), 2021.
 
+[Building the Next Generation of Security Focused NVX Systems:Overcoming Limitations of N-Variant Execution](https://escholarship.org/uc/item/2719443b)  
+Alexios Voulimeneas.
+PhD dissertation, UC Irvine, 2020.
+
 [Distributed Heterogeneous N-Variant Execution](./papers/dimva20-paper27-final.pdf)  
 Alexios Voulimeneas, Dokyung Song, Fabian Parzefall, Yeoul Na, Per Larsen, Michael Franz, and Stijn Volckaert.  
 In International Conference on Detection of Intrusions and Malware
