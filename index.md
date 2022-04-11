@@ -60,7 +60,8 @@ In International Conference on Communications (ICC'13).
 
 Artifact Evaluation Committee Member, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
 
-Artifact Evaluation Committee Member, European Conference on Computer Systems (EuroSys), 2022. 
+Artifact Evaluation Committee Member, European Conference on Computer Systems (EuroSys), 2022.  
+**[Distinguished Reviewer Artifact Award, 2022]**
 
 Artifact Evaluation Committee Member, USENIX Security Symposium, 2022. 
 
