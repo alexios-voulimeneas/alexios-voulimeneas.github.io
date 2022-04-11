@@ -53,11 +53,11 @@ In USENIX Annual Technical Conference (ATC), 2016.
 **[Acceptance Rate: 47/266=17.6%]**
 
 [A Reliable Multicast Transport Protocol for Information-Centric Networks](https://mm.aueb.gr/publications/2014-RMTPSI-JNCA.pdf)  
-C. Stais, G. Xylomenos and A. Voulimeneas.  
+Charilaos Stais, George Xylomenos, and Alexios Voulimeneas.  
 In Journal of Network and Computer Applications, 2014.  
 
 [Towards an Error Control Scheme for a Publish/Subscribe Network](https://mm.aueb.gr/publications/2013-ECOPSUN-ICC.pdf)  
-C. Stais, A. Voulimeneas and G. Xylomenos.  
+Charilaos Stais, Alexios Voulimeneas, and George Xylomenos.  
 In International Conference on Communications (ICC'13).  
 
 ## [](#header-2) Professional Service
