@@ -25,12 +25,12 @@ My research interests include:
 
 [You Shall Not (by)Pass! Practical, Secure, and Fast PKU-based Sandboxing](./papers/cerberus.pdf)    
 Alexios Voulimeneas, Jonas Vinck, Ruben Mechelinck, and Stijn Volckaert.  
-(To Appear) In European Conference on Computer Systems (EuroSys), 2022.  
+In European Conference on Computer Systems (EuroSys), 2022.  
 **[Acceptance Rate: 42/162=25.9%]**
 
 [Sharing is Caring: Secure and Efficient Shared Memory Support for MVEEs](./papers/eurosys22-final50.pdf)    
 Jonas Vinck, Bert Abrath, Bart Coppens, Alexios Voulimeneas, Bjorn De Sutter, and Stijn Volckaert.  
-(To Appear) In European Conference on Computer Systems (EuroSys), 2022.  
+In European Conference on Computer Systems (EuroSys), 2022.  
 **[Acceptance Rate: 42/162=25.9%]**
 
 [dMVX: Secure and Efficient Multi-Variant Execution in a Distributed Setting](https://arxiv.org/pdf/2011.02091.pdf)  
