@@ -60,7 +60,7 @@ In Journal of Network and Computer Applications, 2014.
 Charilaos Stais, Alexios Voulimeneas, and George Xylomenos.  
 In International Conference on Communications (ICC'13).  
 
-[Towards an Error Control Scheme for a Publish/Subscribe Network]
+[Towards an Error Control Scheme for a Publish/Subscribe Network]  
 Alexios Voulimeneas.
 B.Sc. Thesis Project Report, Athens University of Economics and Business/Department of Informatics, 2012.
 
