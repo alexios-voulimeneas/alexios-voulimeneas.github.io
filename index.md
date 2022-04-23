@@ -47,7 +47,7 @@ In International Conference on Detection of Intrusions and Malware
 & Vulnerability Assessment (DIMVA), 2020.  
 **[Acceptance Rate: 13/45=28.9%]**
 
-Secure and Efficient Application Monitoring and Replication [[PDF]](https://people.cs.kuleuven.be/~stijn.volckaert/papers/2016_ATC_ReMon.pdf)  
+Secure and Efficient Application Monitoring and Replication [[PDF]](https://people.cs.kuleuven.be/~stijn.volckaert/papers/2016_ATC_ReMon.pdf)[[code]](https://github.com/ReMon-MVEE/ReMon)   
 Stijn Volckaert, Bart Coppens, Alexios Voulimeneas, Andrei Homescu, Per Larsen, Bjorn De Sutter, and Michael Franz.  
 In USENIX Annual Technical Conference (ATC), 2016.  
 **[Acceptance Rate: 47/266=17.6%]**
