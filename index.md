@@ -37,7 +37,7 @@ dMVX: Secure and Efficient Multi-Variant Execution in a Distributed Setting [[PD
 Alexios Voulimeneas, Dokyung Song, Per Larsen, Michael Franz, and Stijn Volckaert.  
 In European Workshop on Systems Security (EuroSec), 2021.
 
-Building the Next Generation of Security Focused NVX Systems:Overcoming Limitations of N-Variant Execution [[PDF]](https://escholarship.org/uc/item/2719443b)  
+Building the Next Generation of Security Focused NVX Systems:Overcoming Limitations of N-Variant Execution [[PDF]](https://escholarship.org/uc/item/2719443b)[[slides]](./papers/voulimeneas_defense.pptx)  
 Alexios Voulimeneas.
 PhD dissertation, UC Irvine, 2020.
 
