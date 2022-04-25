@@ -41,7 +41,7 @@ Building the Next Generation of Security Focused NVX Systems:Overcoming Limitati
 Alexios Voulimeneas.
 PhD dissertation, UC Irvine, 2020.
 
-Distributed Heterogeneous N-Variant Execution [[PDF]](./papers/dimva20-paper27-final.pdf)  
+Distributed Heterogeneous N-Variant Execution [[PDF]](./papers/dimva20-paper27-final.pdf)[[video]](https://www.youtube.com/watch?v=8AOwFWC3KjY&list=PLm_RjVa4jQG9hGaSZQcsWgFO87CA_iTzq&index=8&t=0s)[[slides]](./papers/dimva20-presentation.pptx)  
 Alexios Voulimeneas, Dokyung Song, Fabian Parzefall, Yeoul Na, Per Larsen, Michael Franz, and Stijn Volckaert.  
 In International Conference on Detection of Intrusions and Malware
 & Vulnerability Assessment (DIMVA), 2020.  
