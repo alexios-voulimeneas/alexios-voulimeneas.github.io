@@ -28,7 +28,7 @@ Alexios Voulimeneas, Jonas Vinck, Ruben Mechelinck, and Stijn Volckaert.
 In European Conference on Computer Systems (EuroSys), 2022.  
 **[Acceptance Rate: 42/162=25.9%]**
 
-Sharing is Caring: Secure and Efficient Shared Memory Support for MVEEs [[PDF]](./papers/eurosys22-final50.pdf)[[code]](https://github.com/ReMon-MVEE/ReMon)      
+Sharing is Caring: Secure and Efficient Shared Memory Support for MVEEs [[PDF]](./papers/eurosys22-final50.pdf)[[code]](https://github.com/ReMon-MVEE/ReMon)[[slides]](./papers/EuroSys22_ReMon_Shm.pptx)      
 Jonas Vinck, Bert Abrath, Bart Coppens, Alexios Voulimeneas, Bjorn De Sutter, and Stijn Volckaert.  
 In European Conference on Computer Systems (EuroSys), 2022.  
 **[Acceptance Rate: 42/162=25.9%]**
