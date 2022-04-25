@@ -23,7 +23,7 @@ My research interests include:
 
 ## [](#header-2)Publications
 
-You Shall Not (by)Pass! Practical, Secure, and Fast PKU-based Sandboxing [[PDF]](./papers/cerberus.pdf)[[code]](https://github.com/ku-leuven-msec/The-Cerberus-Project)    
+You Shall Not (by)Pass! Practical, Secure, and Fast PKU-based Sandboxing [[PDF]](./papers/cerberus.pdf)[[code]](https://github.com/ku-leuven-msec/The-Cerberus-Project)[[slides]](./papers/EuroSys22_Cerberus.zip)    
 Alexios Voulimeneas, Jonas Vinck, Ruben Mechelinck, and Stijn Volckaert.  
 In European Conference on Computer Systems (EuroSys), 2022.  
 **[Acceptance Rate: 42/162=25.9%]**
