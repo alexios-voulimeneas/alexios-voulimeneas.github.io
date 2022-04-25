@@ -33,7 +33,7 @@ Jonas Vinck, Bert Abrath, Bart Coppens, Alexios Voulimeneas, Bjorn De Sutter, an
 In European Conference on Computer Systems (EuroSys), 2022.  
 **[Acceptance Rate: 42/162=25.9%]**
 
-dMVX: Secure and Efficient Multi-Variant Execution in a Distributed Setting [[PDF]](https://arxiv.org/pdf/2011.02091.pdf)[[slides]](./papers/dMVX-eurosec2021.pptx)  
+dMVX: Secure and Efficient Multi-Variant Execution in a Distributed Setting [[PDF]](https://arxiv.org/pdf/2011.02091.pdf)[[video]](https://www.youtube.com/watch?v=Cn88HpelxHo&list=PLzDuHU-z7gNimkcmxRESHgdi-tBWoFWhH&index=7&ab_channel=AndreaLanzi)[[slides]](./papers/dMVX-eurosec2021.pptx)  
 Alexios Voulimeneas, Dokyung Song, Per Larsen, Michael Franz, and Stijn Volckaert.  
 In European Workshop on Systems Security (EuroSec), 2021.
 
