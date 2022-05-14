@@ -66,17 +66,19 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
-Artifact Evaluation Committee Member, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
+Program Committee, European Conference on Computer Systems (EuroSys), 2022.
 
-Artifact Evaluation Committee Member, European Conference on Computer Systems (EuroSys), 2022.  
+Artifact Evaluation Committee, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
+
+Artifact Evaluation Committee, European Conference on Computer Systems (EuroSys), 2022.  
 **[Distinguished Reviewer Artifact Award, 2022]**
 
-Artifact Evaluation Committee Member, USENIX Security Symposium, 2022. 
+Artifact Evaluation Committee, USENIX Security Symposium, 2022. 
 
 External Reviewer, European Conference on Computer Systems (EuroSys), 2021, 2022.
 
-Program & Review Committee, Reversing and Offensive-oriented Trends Symposium (ROOTS), 2020, 2021.
+Program Committee, Reversing and Offensive-oriented Trends Symposium (ROOTS), 2020, 2021.
 
-Artifact Evaluation Committee Member, USENIX Symposium on Operating Systems Design and Implementation (USENIX OSDI), 2020. 
+Artifact Evaluation Committee, USENIX Symposium on Operating Systems Design and Implementation (USENIX OSDI), 2020. 
 
 Student Program Committee Member, IEEE Symposium on Security and Privacy (IEEE S&P), 2018.
