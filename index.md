@@ -66,7 +66,9 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
-Program Committee, European Conference on Computer Systems (EuroSys), 2022.
+Program Committee, European Conference on Computer Systems (EuroSys), 2023.
+
+Program Committee, European Symposium on Research in Computer Security (ESORICS), 2022.
 
 Artifact Evaluation Committee, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
 
