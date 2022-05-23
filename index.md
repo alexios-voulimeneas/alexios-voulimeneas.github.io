@@ -68,6 +68,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 Program Committee, European Conference on Computer Systems (EuroSys), 2023.
 
+Program Committee, ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2023.
+
 Program Committee, European Symposium on Research in Computer Security (ESORICS), 2022.
 
 Artifact Evaluation Committee, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
@@ -81,6 +83,6 @@ External Reviewer, European Conference on Computer Systems (EuroSys), 2021, 2022
 
 Program Committee, Reversing and Offensive-oriented Trends Symposium (ROOTS), 2020, 2021.
 
-Artifact Evaluation Committee, USENIX Symposium on Operating Systems Design and Implementation (USENIX OSDI), 2020. 
+Artifact Evaluation Committee, USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2020. 
 
-Student Program Committee Member, IEEE Symposium on Security and Privacy (IEEE S&P), 2018.
+Student Program Committee Member, IEEE Symposium on Security and Privacy (S&P), 2018.
