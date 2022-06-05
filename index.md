@@ -6,10 +6,10 @@ layout: default
 
 ## [](#header-2)Bio
 
-I am a Postdoctoral Scholar in the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's - Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
+I am a Postdoctoral Scholar in the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
 
 I obtained my PhD degree from [UC Irvine](https://uci.edu/) in 2020 under the supervision of Professor [Michael Franz](http://www.michaelfranz.com/).
-In my [PhD dissertation](https://escholarship.org/uc/item/2719443b), I proposed new techniques to improve the security and performance of N-Variant systems. Before that, I completed my undergraduate studies at [Athens University of Economics and Business/Department of Informatics, Greece]((https://www.dept.aueb.gr/en/cs)). I have also done internships at Oracle Labs and Apple. You can contact me at alex.voulimeneas AT kuleuven DOT be if you have interest or questions in any of my papers.
+In my [PhD dissertation](https://escholarship.org/uc/item/2719443b), I proposed new techniques to improve the security and performance of N-Variant systems. Before that, I completed my undergraduate studies at [Athens University of Economics and Business/Department of Informatics, Greece]((https://www.dept.aueb.gr/en/cs)). I have also done internships at Oracle Labs and Apple. You can contact me at alex.voulimeneas AT kuleuven DOT be.
 
 [(link to full CV)](./papers/Voulimeneas_Alexios_academic_CV.pdf)
 
