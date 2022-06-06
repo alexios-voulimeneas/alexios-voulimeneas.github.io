@@ -66,23 +66,23 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
-Program Committee, European Conference on Computer Systems (EuroSys), 2023.
+(EuroSys) European Conference on Computer Systems, Program Committee [2023]
 
-Program Committee, ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2023.
+(ASIACCS) ACM ASIA Conference on Computer and Communications Security, Program Committee [2023]
 
-Program Committee, European Symposium on Research in Computer Security (ESORICS), 2022.
+(ESORICS) European Symposium on Research in Computer Security, Program Committee [2022]
 
-Artifact Evaluation Committee, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
+(PLDI) ACM SIGPLAN Conference on Programming Language Design and Implementation, Artifact Evaluation Committee [2022]
 
-Artifact Evaluation Committee, European Conference on Computer Systems (EuroSys), 2022.  
+(EuroSys) European Conference on Computer Systems, Artifact Evaluation Committee [2022]  
 **[Distinguished Reviewer Artifact Award, 2022]**
 
-Artifact Evaluation Committee, USENIX Security Symposium, 2022. 
+(Usenix Security) USENIX Security Symposium, Artifact Evaluation Committee [2022] 
 
-External Reviewer, European Conference on Computer Systems (EuroSys), 2021, 2022.
+(EuroSys) European Conference on Computer Systems, External Reviewer [2021, 2022]
 
-Program Committee, Reversing and Offensive-oriented Trends Symposium (ROOTS), 2020, 2021.
+(ROOTS) Reversing and Offensive-oriented Trends Symposium, Program Committee [2020, 2021]
 
-Artifact Evaluation Committee, USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2020. 
+(OSDI) USENIX Symposium on Operating Systems Design and Implementation, Artifact Evaluation Committee [2020] 
 
-Student Program Committee Member, IEEE Symposium on Security and Privacy (S&P), 2018.
+(S&P) IEEE Symposium on Security and Privacy, Student Program Committee Member [2018]
