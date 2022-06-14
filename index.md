@@ -81,7 +81,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (EuroSys) European Conference on Computer Systems, External Reviewer [2021, 2022]
 
-(ROOTS) Reversing and Offensive-oriented Trends Symposium, Program Committee [2020, 2021]
+(ROOTS) Reversing and Offensive-oriented Trends Symposium, Program Committee [2020, 2021, 2022]
 
 (OSDI) USENIX Symposium on Operating Systems Design and Implementation, Artifact Evaluation Committee [2020] 
 
