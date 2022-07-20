@@ -62,7 +62,7 @@ In Journal of Network and Computer Applications (JNCA 2014).
 
 Towards an Error Control Scheme for a Publish/Subscribe Network [[PDF]](https://mm.aueb.gr/publications/2013-ECOPSUN-ICC.pdf)  
 Charilaos Stais, Alexios Voulimeneas, and George Xylomenos.  
-In International Conference on Communications (ICC'13).  
+In International Conference on Communications (ICC 2013).  
 
 Towards an Error Control Scheme for a Publish/Subscribe Network [[PDF]](./papers/reportFINAL.pdf)  
 Alexios Voulimeneas.  
