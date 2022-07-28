@@ -4,6 +4,10 @@ layout: default
 
 ![](IMG_2181.jpg){:height="35%" width="35%"}
 
+## [](#header-2)News
+
+**I am on the job market for faculty and research positions!!!**
+
 ## [](#header-2)Bio
 
 I am a Postdoctoral Scholar in the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
