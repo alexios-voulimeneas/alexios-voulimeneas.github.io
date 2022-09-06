@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](IMG_2181.jpg){:height="35%" width="35%"}
+![](305135416_3597501323810044_7229320466856038834_n.jpg){:height="35%" width="35%"}
 
 ## [](#header-2)News
 
