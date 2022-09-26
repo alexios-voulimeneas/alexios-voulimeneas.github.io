@@ -74,6 +74,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(USENIX Security) USENIX Security Symposium, Artifact Evaluation Publication Chair [2023]
+
 (EuroSys) European Conference on Computer Systems, Program Committee [2023]
 
 (ASIACCS) ACM ASIA Conference on Computer and Communications Security, Program Committee [2023]
@@ -85,7 +87,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 (EuroSys) European Conference on Computer Systems, Artifact Evaluation Committee [2022]  
 **[Distinguished Reviewer Artifact Award, 2022]**
 
-(Usenix Security) USENIX Security Symposium, Artifact Evaluation Committee [2022] 
+(USENIX Security) USENIX Security Symposium, Artifact Evaluation Committee [2022] 
 
 (EuroSys) European Conference on Computer Systems, External Reviewer [2021, 2022]
 
