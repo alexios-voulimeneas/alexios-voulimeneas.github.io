@@ -27,9 +27,9 @@ My research interests include:
 
 ## [](#header-2)Publications
 
-A run a day won’t keep the hacker away: Inference attacks on endpoint privacy zones in fitness tracking social networks (under embargo until the first day of the conference)  
+A run a day won’t keep the hacker away: Inference attacks on endpoint privacy zones in fitness tracking social networks [[PDF]](https://lepoch.at/files/epz-inference-attacks-ccs22.pdf)  
 Karel Dhondt, Victor Le Pochat, Alexios Voulimeneas, Wouter Joosen, and Stijn Volckaert.  
-To appear in ACM Conference on Computer and Communications Security (CCS 2022).  
+In ACM Conference on Computer and Communications Security (CCS 2022).  
 
 You Shall Not (by)Pass! Practical, Secure, and Fast PKU-based Sandboxing [[PDF]](./papers/cerberus.pdf)[[code]](https://github.com/ku-leuven-msec/The-Cerberus-Project)[[slides]](./papers/EuroSys22_Cerberus.pptx)    
 Alexios Voulimeneas, Jonas Vinck, Ruben Mechelinck, and Stijn Volckaert.  
