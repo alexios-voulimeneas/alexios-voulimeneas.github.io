@@ -82,7 +82,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (ASIACCS) ACM ASIA Conference on Computer and Communications Security, Program Committee [2023]
 
-(ESORICS) European Symposium on Research in Computer Security, Program Committee [2022]
+(ESORICS) European Symposium on Research in Computer Security, Program Committee [2022, 2023]
 
 (PLDI) ACM SIGPLAN Conference on Programming Language Design and Implementation, Artifact Evaluation Committee [2022]
 
