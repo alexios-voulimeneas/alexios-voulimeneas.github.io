@@ -27,7 +27,7 @@ My research interests include:
 
 ## [](#header-2)Publications
 
-A run a day won’t keep the hacker away: Inference attacks on endpoint privacy zones in fitness tracking social networks [[PDF]](https://lepoch.at/files/epz-inference-attacks-ccs22.pdf)  
+A run a day won’t keep the hacker away: Inference attacks on endpoint privacy zones in fitness tracking social networks  
 Karel Dhondt, Victor Le Pochat, Alexios Voulimeneas, Wouter Joosen, and Stijn Volckaert.  
 In BlackHat Asia 2023 (To appear).
 
