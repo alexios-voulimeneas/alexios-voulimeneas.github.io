@@ -79,6 +79,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(CCS) ACM Conference on Computer and Communications Security, Program Committee [2023]  
+
 (Middleware) ACM/USENIX/IFIP International Middleware Conference, Program Committee [2023] 
 
 (USENIX Security) USENIX Security Symposium, Artifact Evaluation Publication Chair [2023]
