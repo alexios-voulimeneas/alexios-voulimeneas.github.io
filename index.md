@@ -87,7 +87,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (EuroSys) European Conference on Computer Systems, Program Committee [2023]
 
-(ASIACCS) ACM ASIA Conference on Computer and Communications Security, Program Committee [2023]
+(ASIACCS) ACM ASIA Conference on Computer and Communications Security, Program Committee [2023]  
+**[Best Reviewer Award, 2023]**  
 
 (ESORICS) European Symposium on Research in Computer Security, Program Committee [2022, 2023]
 
