@@ -6,7 +6,7 @@ layout: default
 
 ## [](#header-2)News
 
-**I am on the job market for faculty and research positions!!!**
+**I will join the Cybersecurity group of TU Delft as Assistant Professor on September 15, 2023!!!**
 
 ## [](#header-2)Bio
 
@@ -87,7 +87,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (EuroSys) European Conference on Computer Systems, Program Committee [2023]
 
-(ASIACCS) ACM ASIA Conference on Computer and Communications Security, Program Committee [2023]  
+(ASIACCS) ACM ASIA Conference on Computer and Communications Security, Program Committee [2023, 2024]  
 **[Best Reviewer Award, 2023]**  
 
 (ESORICS) European Symposium on Research in Computer Security, Program Committee [2022, 2023]
