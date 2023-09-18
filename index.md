@@ -6,11 +6,13 @@ layout: default
 
 ## [](#header-2)News
 
-**I will join the Cybersecurity group of TU Delft as Assistant Professor on September 15, 2023!!!**
+**Looking for motivated PhD students to work on Systems and Security related research topics. Please contact me at A.Voulimeneas@tudelft.nl!!!**
 
 ## [](#header-2)Bio
 
-I am a Postdoctoral Scholar in the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
+I am an Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at TU Delft.
+
+From September 2020 until August 2023, I was a Postdoctoral Scholar in the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
 
 I obtained my PhD degree from [UC Irvine](https://uci.edu/) in 2020 under the supervision of Professor [Michael Franz](http://www.michaelfranz.com/).
 In my [PhD dissertation](https://escholarship.org/uc/item/2719443b), I proposed new techniques to improve the security and performance of N-Variant eXecution (NVX) systems. Before that, I completed my undergraduate studies at [Athens University of Economics and Business/Department of Informatics, Greece](https://www.dept.aueb.gr/en/cs). I have also done internships at Oracle Labs and Apple. You can contact me at alex.voulimeneas AT kuleuven DOT be or [Twitter](https://twitter.com/systemsgreek).
