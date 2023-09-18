@@ -6,7 +6,7 @@ layout: default
 
 ## [](#header-2)News
 
-**Looking for motivated PhD students to work on Systems and Security related research topics. Please contact me at A.Voulimeneas AT tudelft DOT nl!!!**
+**Looking for motivated PhD students to work on Systems and Security related research topics. You can contact me at A.Voulimeneas AT tudelft DOT nl!!!**
 
 ## [](#header-2)Bio
 
