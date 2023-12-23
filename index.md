@@ -31,7 +31,7 @@ My research interests include:
 
 A run a day won’t keep the hacker away: Inference attacks on endpoint privacy zones in fitness tracking social networks  
 Karel Dhondt, Victor Le Pochat, Alexios Voulimeneas, Wouter Joosen, and Stijn Volckaert.  
-In BlackHat Asia 2023 (To appear).
+In BlackHat Asia 2023.
 
 A run a day won’t keep the hacker away: Inference attacks on endpoint privacy zones in fitness tracking social networks [[PDF]](https://lepoch.at/files/epz-inference-attacks-ccs22.pdf)  
 Karel Dhondt, Victor Le Pochat, Alexios Voulimeneas, Wouter Joosen, and Stijn Volckaert.  
@@ -81,11 +81,13 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(EuroSec) European Workshop on System Security, Program Committee  [2024]  
+
 (USENIX Security) USENIX Security Symposium, Program Committee [2024]   
 
 (DIMVA) Conference on Detection of Intrusions and Malware & Vulnerability Assessment, Program Committee [2024]  
 
-(CCS) ACM Conference on Computer and Communications Security, Program Committee [2023]  
+(CCS) ACM Conference on Computer and Communications Security, Program Committee [2023, 2024]  
 **[Top Reviewer Award, 2023]**  
 
 (Middleware) ACM/USENIX/IFIP International Middleware Conference, Program Committee [2023] 
