@@ -116,10 +116,6 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (S&P) IEEE Symposium on Security and Privacy, Student Program Committee Member [2018]  
 
-## [](#header-2) Current PhD Students
-
-André Rösti (2022-Present, @ UCI)  
-
 ## [](#header-2) Current Master Thesis Students
 
 Maarten Weyns (2023-Present, @ TU Delft)  
