@@ -121,6 +121,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 ## [](#header-2) Teaching
 
 [Since 2024] Computer Security  
+
 [Since 2024] System Security
 
 ## [](#header-2) Current Master Thesis Students
