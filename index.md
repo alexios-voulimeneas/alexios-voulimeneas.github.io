@@ -118,8 +118,11 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (S&P) IEEE Symposium on Security and Privacy, Student Program Committee Member [2018]  
 
-## [](#header-2) Current Master Thesis Students
+## [](#header-2) Teaching
 
-Maarten Weyns (2023-Present, @ TU Delft)  
+[Since 2024] Computer Security  
+[Since 2024] System Security
+
+## [](#header-2) Current Master Thesis Students
 
 Wouter Jehee (2023-Present, @ TU Delft)  
