@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**March 2024:** Our paper "System Call Interposition Without Compromise" has been accepted at [DSN 2024](https://dsn2024uq.github.io/).
+
 **Looking for motivated PhD students to work on Systems and Security related research topics.**
 
 **Apply [here](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=16855&jobTitle=PhD%20Position%20Systems%20and%20Systems%20Security)!!!**
