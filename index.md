@@ -85,6 +85,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(NDSS) Network and Distributed System Security Symposium, Program Committee [2024]  
+
 (ISC) Information Security Conference, Program Committee [2024]  
 
 (EuroSec) European Workshop on System Security, Program Committee  [2024]  
