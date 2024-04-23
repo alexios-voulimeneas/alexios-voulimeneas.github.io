@@ -87,8 +87,6 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (S&P) IEEE Symposium on Security and Privacy, Program Committee [2025]  
 
-(NDSS) Network and Distributed System Security Symposium, Program Committee [2025]  
-
 (ISC) Information Security Conference, Program Committee [2024]  
 
 (EuroSec) European Workshop on System Security, Program Committee  [2024]  
