@@ -33,6 +33,11 @@ My research interests include:
 
 ## [](#header-2)Publications
 
+System Call Interposition Without Compromise [[PDF]](./papers/2024-lazypoline.pdf)[[code]](https://github.com/lazypoline/lazypoline)  
+Adriaan Jacobs, Merve Gülmez, Alicia Andries, Stijn Volckaert, and Alexios Voulimeneas.  
+In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2024).  
+**[Acceptance Rate: 42/203=20%]**  
+
 A run a day won’t keep the hacker away: Inference attacks on endpoint privacy zones in fitness tracking social networks  
 Karel Dhondt, Victor Le Pochat, Alexios Voulimeneas, Wouter Joosen, and Stijn Volckaert.  
 In BlackHat Asia 2023.
