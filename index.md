@@ -35,7 +35,7 @@ My research interests include:
 
 Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era    
 Nikita Yadav, Franziska Vollmer, Ahmad-Reza Sadeghi, Georgios Smaragdakis, and Alexios Voulimeneas.  
-In Conference on Security for Space Systems Security (3S) 2024.  
+In Conference on Security for Space Systems (3S) 2024.  
 
 System Call Interposition Without Compromise [[PDF]](./papers/2024-lazypoline.pdf)[[code]](https://github.com/lazypoline/lazypoline)  
 Adriaan Jacobs, Merve Gülmez, Alicia Andries, Stijn Volckaert, and Alexios Voulimeneas.  
