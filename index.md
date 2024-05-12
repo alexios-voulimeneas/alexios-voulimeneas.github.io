@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**Our position (white) paper "Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era" was accepted at Security for Space Systems (3S)**
+
 **Looking for motivated PhD students to work on Systems and Security related research topics.**
 
 **Apply [here](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=16855&jobTitle=PhD%20Position%20Systems%20and%20Systems%20Security)!!!**
@@ -30,6 +32,10 @@ My research interests include:
 *   Computer Networks and Distributed Systems
 
 ## [](#header-2)Publications
+
+Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era" was accepted at Security  
+Nikita Yadav, Franziska Vollmer, Ahmad-Reza Sadeghi, Georgios Smaragdakis, and Alexios Voulimeneas.  
+In Conference of Security for Space Systems Security (3S) 2024.  
 
 System Call Interposition Without Compromise [[PDF]](./papers/2024-lazypoline.pdf)[[code]](https://github.com/lazypoline/lazypoline)  
 Adriaan Jacobs, Merve Gülmez, Alicia Andries, Stijn Volckaert, and Alexios Voulimeneas.  
