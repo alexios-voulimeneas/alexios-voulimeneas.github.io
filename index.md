@@ -33,7 +33,7 @@ My research interests include:
 
 ## [](#header-2)Publications
 
-Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era    
+Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era [[PDF]](./papers/ESA3S-2024.pdf)      
 Nikita Yadav, Franziska Vollmer, Ahmad-Reza Sadeghi, Georgios Smaragdakis, and Alexios Voulimeneas.  
 In Conference on Security for Space Systems (3S) 2024.  
 
