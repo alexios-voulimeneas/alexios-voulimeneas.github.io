@@ -6,7 +6,7 @@ layout: default
 
 ## [](#header-2)News
 
-**Our position (white) paper "Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era" was accepted at Security for Space Systems (3S)**
+**Our position (white) paper "Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era" was accepted at the IEEE Conference on Security for Space Systems (3S) 2024**
 
 **Looking for motivated PhD students to work on Systems and Security related research topics.**
 
@@ -35,7 +35,7 @@ My research interests include:
 
 Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era [[PDF]](./papers/ESA3S-2024.pdf)      
 Nikita Yadav, Franziska Vollmer, Ahmad-Reza Sadeghi, Georgios Smaragdakis, and Alexios Voulimeneas.  
-In Conference on Security for Space Systems (3S) 2024.  
+In IEEE Conference on Security for Space Systems (3S) 2024.  
 
 System Call Interposition Without Compromise [[PDF]](./papers/2024-lazypoline.pdf)[[code]](https://github.com/lazypoline/lazypoline)  
 Adriaan Jacobs, Merve Gülmez, Alicia Andries, Stijn Volckaert, and Alexios Voulimeneas.  
