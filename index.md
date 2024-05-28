@@ -6,7 +6,7 @@ layout: default
 
 ## [](#header-2)News
 
-**Our position (white) paper "Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era" was accepted at the IEEE Conference on Security for Space Systems (3S) 2024**
+**Our paper "The Astonishing Evolution of Probabilistic Memory Safety: From Basic Heap-Data Attack Detection towards Fully Survivable Multi-Variant Execution" has been accepted for publication in the upcoming Special Issue of the IEEE Security & Privacy magazine on Memory Safety.**
 
 **Looking for motivated PhD students to work on Systems and Security related research topics.**
 
