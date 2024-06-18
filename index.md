@@ -6,8 +6,6 @@ layout: default
 
 ## [](#header-2)News
 
-**Our paper "The Astonishing Evolution of Probabilistic Memory Safety: From Basic Heap-Data Attack Detection towards Fully Survivable Multi-Variant Execution" has been accepted for publication in the upcoming Special Issue of the IEEE Security & Privacy magazine on Memory Safety.**
-
 **Looking for motivated PhD students to work on Systems and Security related research topics.**
 
 **Apply [here](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=16855&jobTitle=PhD%20Position%20Systems%20and%20Systems%20Security)!!!**
@@ -32,6 +30,10 @@ My research interests include:
 *   Computer Networks and Distributed Systems
 
 ## [](#header-2)Publications
+
+The Astonishing Evolution of Probabilistic Memory Safety: From Basic Heap-Data Attack Detection towards Fully Survivable Multi-Variant Execution [[Paper]](https://ieeexplore.ieee.org/document/10557576)  
+André Rösti, Alexios Voulimeneas, and Michael Franz.  
+In IEEE Security & Privacy 2024.
 
 Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era [[PDF]](./papers/ESA3S-2024.pdf)      
 Nikita Yadav, Franziska Vollmer, Ahmad-Reza Sadeghi, Georgios Smaragdakis, and Alexios Voulimeneas.  
@@ -93,6 +95,8 @@ Alexios Voulimeneas.
 B.Sc. Thesis Project report, Athens University of Economics and Business/Department of Informatics, 2012.
 
 ## [](#header-2) Professional Service
+
+(ACNS) International Conference on Applied Cryptography and Network Security, Program Committee [2025]  
 
 (S&P) IEEE Symposium on Security and Privacy, Program Committee [2025]  
 
