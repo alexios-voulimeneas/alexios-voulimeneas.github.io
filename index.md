@@ -31,7 +31,7 @@ My research interests include:
 
 ## [](#header-2)Publications
 
-The Astonishing Evolution of Probabilistic Memory Safety: From Basic Heap-Data Attack Detection towards Fully Survivable Multi-Variant Execution [[Paper]](https://ieeexplore.ieee.org/document/10557576)  
+The Astonishing Evolution of Probabilistic Memory Safety: From Basic Heap-Data Attack Detection towards Fully Survivable Multi-Variant Execution [[PDF]](./papers/The_Astonishing_Evolution_of_Probabilistic_Memory_Safety_From_Basic_Heap-Data_Attack_Detection_Toward_Fully_Survivable_Multivariant_Execution.pdf)  
 André Rösti, Alexios Voulimeneas, and Michael Franz.  
 In IEEE Security & Privacy 2024.
 
