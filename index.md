@@ -102,7 +102,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (EuroSec) European Workshop on System Security, Program Committee  [2024]  
 
-(USENIX Security) USENIX Security Symposium, Program Committee [2024]   
+(USENIX Security) USENIX Security Symposium, Program Committee [2024, 2025]   
 
 (DIMVA) Conference on Detection of Intrusions and Malware & Vulnerability Assessment, Program Committee [2024]  
 
