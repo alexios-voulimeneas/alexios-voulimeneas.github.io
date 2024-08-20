@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**August 2024:** Our paper "I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System" has been accepted for publication at [ACSAC 2024](https://www.acsac.org/2024/submissions/papers/). See you in Hawaii!!!
+
 ## [](#header-2)Bio
 
 I am an Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/).
