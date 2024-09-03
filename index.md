@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**September 2024:** Our paper "Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States" has been accepted for publication at [NDSS 2025](https://www.ndss-symposium.org/ndss2025/). (Probably) See you in San Diego!!!  
+
 **August 2024:** Our paper "I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System" has been accepted for publication at [ACSAC 2024](https://www.acsac.org/2024/submissions/papers/). See you in Hawaii!!!
 
 ## [](#header-2)Bio
