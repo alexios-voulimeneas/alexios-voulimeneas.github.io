@@ -102,18 +102,18 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (S&P) IEEE Symposium on Security and Privacy, Program Committee [2025]  
 
+(USENIX Security) USENIX Security Symposium, Program Committee [2024, 2025]   
+
+(Middleware) ACM/USENIX/IFIP International Middleware Conference, Program Committee [2023, 2025] 
+
 (ISC) Information Security Conference, Program Committee [2024]  
 
 (EuroSec) European Workshop on System Security, Program Committee  [2024]  
-
-(USENIX Security) USENIX Security Symposium, Program Committee [2024, 2025]   
 
 (DIMVA) Conference on Detection of Intrusions and Malware & Vulnerability Assessment, Program Committee [2024]  
 
 (CCS) ACM Conference on Computer and Communications Security, Program Committee [2023, 2024]  
 **[Top Reviewer Award, 2023]**  
-
-(Middleware) ACM/USENIX/IFIP International Middleware Conference, Program Committee [2023] 
 
 (USENIX Security) USENIX Security Symposium, Artifact Evaluation Publication Chair [2023]
 
@@ -147,4 +147,4 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Current Master Thesis Students
 
-Wouter Jehee (2023-Present, @ TU Delft)  
+Wouter Jehee (2023-2024, @TU Delft. Graduated August 2024)  
