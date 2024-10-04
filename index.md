@@ -145,6 +145,10 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 [Since 2024] Systems Security
 
-## [](#header-2) Current Master Thesis Students
+## [](#header-2) Current PhD Students
+
+Jesús María Gómez Moreno (2024-Present, @TU Delft, co-supervised with Georgios Smaragdakis and Fernando Kuipers)  
+
+## [](#header-2) Graduated Master Thesis Students
 
 Wouter Jehee (2023-2024, @TU Delft. Graduated August 2024)  
