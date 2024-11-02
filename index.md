@@ -6,8 +6,6 @@ layout: default
 
 ## [](#header-2)News
 
-**September 2024:** Our paper "Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States" has been accepted for publication at [NDSS 2025](https://www.ndss-symposium.org/ndss2025/). (Probably) See you in San Diego!!!  
-
 ## [](#header-2)Bio
 
 I am an Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/).
@@ -28,6 +26,10 @@ My research interests include:
 *   Computer Networks and Distributed Systems
 
 ## [](#header-2)Publications
+
+Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States  
+Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Volckaert, and Dokyung Song.  
+(To Appear) In Network and Distributed System Security Symposium (NDSS 2025).
 
 I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System     
 André Rösti, Stijn Volckaert, Michael Franz, and Alexios Voulimeneas.  
