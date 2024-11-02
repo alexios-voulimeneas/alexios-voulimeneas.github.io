@@ -8,8 +8,6 @@ layout: default
 
 **September 2024:** Our paper "Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States" has been accepted for publication at [NDSS 2025](https://www.ndss-symposium.org/ndss2025/). (Probably) See you in San Diego!!!  
 
-**August 2024:** Our paper "I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System" has been accepted for publication at [ACSAC 2024](https://www.acsac.org/2024/submissions/papers/). See you in Hawaii!!!
-
 ## [](#header-2)Bio
 
 I am an Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/).
@@ -30,6 +28,10 @@ My research interests include:
 *   Computer Networks and Distributed Systems
 
 ## [](#header-2)Publications
+
+I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System     
+André Rösti, Stijn Volckaert, Michael Franz, and Alexios Voulimeneas.  
+(To Appear) In Annual Computer Security Applications Conference (ACSAC 2024).  
 
 The Astonishing Evolution of Probabilistic Memory Safety: From Basic Heap-Data Attack Detection towards Fully Survivable Multi-Variant Execution [[PDF]](./papers/The_Astonishing_Evolution_of_Probabilistic_Memory_Safety_From_Basic_Heap-Data_Attack_Detection_Toward_Fully_Survivable_Multivariant_Execution.pdf)  
 André Rösti, Alexios Voulimeneas, and Michael Franz.  
