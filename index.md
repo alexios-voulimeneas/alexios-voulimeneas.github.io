@@ -156,6 +156,8 @@ Jesús María Gómez Moreno (2024-Present, @TU Delft, co-supervised with Georgio
 ## [](#header-2) Current Master Thesis Students  
 
 Vissarion Moutafis (2024-Present, @TU Delft, co-supervised with Georgios Smaragdakis)  
+Ali Kahawati (2024-Present, @TU Delft)   
+
 
 ## [](#header-2) Graduated Master Thesis Students
 
