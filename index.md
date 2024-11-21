@@ -8,7 +8,7 @@ layout: default
 
 ## [](#header-2)Bio
 
-I am an Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/).
+I am an Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/). I am also part of TU Delft's Undergraduate Curriculum Committee.
 
 From September 2020 until August 2023, I was a Postdoctoral Scholar in the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
 
