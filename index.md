@@ -37,7 +37,7 @@ Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States
 Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Volckaert, and Dokyung Song.  
 (To Appear) In Network and Distributed System Security Symposium (NDSS 2025).
 
-I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System     
+I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System [[PDF]](./papers/a8acsac2024.pdf)[[code]](https://github.com/andrej/a8)     
 André Rösti, Stijn Volckaert, Michael Franz, and Alexios Voulimeneas.  
 In Annual Computer Security Applications Conference (ACSAC 2024).  
 **Distinguished Paper with Artifact Award**  
