@@ -10,6 +10,8 @@ We won one of the two awarded Best Paper Awards at ACSAC 2024 (out of a total of
 
 Congratulations and thanks to my co-authors André, Stijn, and Michael!
 
+<img src="acsac2024.jpg" width="300"> <img src="469846091_4242619729298197_6744985449134500844_n.jpg" width="300">
+
 ## [](#header-2)Bio
 
 I am an Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/). I am also part of TU Delft's Undergraduate Curriculum Committee.
