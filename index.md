@@ -39,7 +39,9 @@ Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Vo
 
 I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System     
 André Rösti, Stijn Volckaert, Michael Franz, and Alexios Voulimeneas.  
-(To Appear) In Annual Computer Security Applications Conference (ACSAC 2024).  
+In Annual Computer Security Applications Conference (ACSAC 2024).  
+**Distinguished Paper with Artifact Award**  
+**[Acceptance Rate: 83/381=21.8%]** (83 papers accepted out of 424 total papers submitted to the conference / 381 strictly reviewed papers after what the program committee called "aggressive desk rejects" = 21.8% of the actually reviewed papers)
 
 The Astonishing Evolution of Probabilistic Memory Safety: From Basic Heap-Data Attack Detection towards Fully Survivable Multi-Variant Execution [[PDF]](./papers/The_Astonishing_Evolution_of_Probabilistic_Memory_Safety_From_Basic_Heap-Data_Attack_Detection_Toward_Fully_Survivable_Multivariant_Execution.pdf)  
 André Rösti, Alexios Voulimeneas, and Michael Franz.  
