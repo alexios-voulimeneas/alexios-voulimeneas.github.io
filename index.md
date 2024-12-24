@@ -161,14 +161,13 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Current PhD Students
 
-Jesús María Gómez Moreno (2024-Present, @TU Delft, co-supervised with Georgios Smaragdakis and Fernando Kuipers)  
+Jesús María Gómez Moreno (2024-Present, TU Delft)  
 
 ## [](#header-2) Current Master Thesis Students  
 
-Vissarion Moutafis (2024-Present, @TU Delft, co-supervised with Georgios Smaragdakis)  
-Ali Kahawati (2024-Present, @TU Delft)   
-
+Vissarion Moutafis (2024-Present, TU Delft)  
+Ali Kahawati (2024-Present, TU Delft)   
 
 ## [](#header-2) Graduated Master Thesis Students
 
-Wouter Jehee (2023-2024, @TU Delft, co-supervised with Georgios Smaragdakis. Graduated August 2024)  
+Wouter Jehee (MSc 2024, TU Delft)  
