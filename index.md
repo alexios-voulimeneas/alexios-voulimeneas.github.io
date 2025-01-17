@@ -110,6 +110,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(SYSTOR) ACM International Systems and Storage Conference, Program Committee [2025]   
+
 (EuroSys) European Conference on Computer Systems, Proceedings Chair [2025]  
 
 (ACNS) International Conference on Applied Cryptography and Network Security, Program Committee [2025]  
