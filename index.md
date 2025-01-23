@@ -122,7 +122,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (Middleware) ACM/USENIX/IFIP International Middleware Conference, Program Committee [2023, 2025] 
 
-(ISC) Information Security Conference, Program Committee [2024]  
+(ISC) Information Security Conference, Program Committee [2024, 2025]  
 
 (EuroSec) European Workshop on System Security, Program Committee  [2024, 2025]  
 
