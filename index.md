@@ -10,6 +10,8 @@ layout: default
 
 This would never have been possible without the unwavering support of so many people, both professionally and personally. Grateful beyond words for the mentors, colleagues, friends, and family who guided, encouraged, and believed in me through every challenge and milestone!
 
+<img src="1739213594267.jpeg">
+
 **December 2024:** We won one of the two awarded Best Paper Awards at ACSAC 2024 (out of a total of 83 accepted papers / 424 total papers submitted to the conference / 381 strictly reviewed papers after desk rejects).
 
 Congratulations and thanks to my co-authors André, Stijn, and Michael!
