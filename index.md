@@ -122,7 +122,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (ACNS) International Conference on Applied Cryptography and Network Security, Program Committee [2025]  
 
-(S&P) IEEE Symposium on Security and Privacy, Program Committee [2025]  
+(S&P) IEEE Symposium on Security and Privacy, Program Committee [2025, 2026]  
 
 (USENIX Security) USENIX Security Symposium, Program Committee [2024, 2025]   
 
