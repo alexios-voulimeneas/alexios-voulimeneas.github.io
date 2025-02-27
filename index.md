@@ -39,7 +39,7 @@ My research interests include:
 
 ## [](#header-2)Publications
 
-Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2025-218-paper.pdf)  
+Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2025-218-paper.pdf)[[code]](https://github.com/yonsei-sslab/moneta)  
 Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Volckaert, and Dokyung Song.  
 (To Appear) In Network and Distributed System Security Symposium (NDSS 2025).
 
