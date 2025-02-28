@@ -41,7 +41,7 @@ My research interests include:
 
 Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2025-218-paper.pdf)[[code]](https://github.com/yonsei-sslab/moneta)  
 Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Volckaert, and Dokyung Song.  
-(To Appear) In Network and Distributed System Security Symposium (NDSS 2025).
+In Network and Distributed System Security Symposium (NDSS 2025).
 
 I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System [[PDF]](./papers/a8acsac2024.pdf)[[code]](https://github.com/andrej/a8)     
 André Rösti, Stijn Volckaert, Michael Franz, and Alexios Voulimeneas.  
@@ -115,6 +115,8 @@ Alexios Voulimeneas.
 B.Sc. Thesis Project report, Athens University of Economics and Business/Department of Informatics, 2012.
 
 ## [](#header-2) Professional Service
+
+(HotOS) ACM SIGOPS Workshop on Hot Topics in Operating Systems, Proceedings Chair [2027]  
 
 (SYSTOR) ACM International Systems and Storage Conference, Program Committee [2025]   
 
