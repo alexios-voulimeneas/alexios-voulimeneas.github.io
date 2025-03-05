@@ -118,6 +118,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (HotOS) ACM SIGOPS Workshop on Hot Topics in Operating Systems, Proceedings Chair [2027]  
 
+(SOSP) ACM Symposium on Operating Systems Principles, Artifact Evaluation Committee Chair [2026]    
+
 (SYSTOR) ACM International Systems and Storage Conference, Program Committee [2025]   
 
 (EuroSys) European Conference on Computer Systems, Proceedings Chair [2025]  
