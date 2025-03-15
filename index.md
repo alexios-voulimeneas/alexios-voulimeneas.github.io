@@ -20,7 +20,7 @@ Congratulations and thanks to my co-authors André, Stijn, and Michael!
 
 ## [](#header-2)Bio
 
-I am an Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/). I am also part of TU Delft's Undergraduate Curriculum Committee.
+I am a tenured Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/). I am also part of TU Delft's Undergraduate Curriculum Committee.
 
 From September 2020 until August 2023, I was a Postdoctoral Scholar in the [DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
 
@@ -119,6 +119,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 (HotOS) ACM SIGOPS Workshop on Hot Topics in Operating Systems, Proceedings Chair [2027]  
 
 (SOSP) ACM Symposium on Operating Systems Principles, Artifact Evaluation Committee Chair [2026]    
+
+(ACSAC) Annual Computer Security Applications Conference, Program Committee [2025]  
 
 (SYSTOR) ACM International Systems and Storage Conference, Program Committee [2025]   
 
