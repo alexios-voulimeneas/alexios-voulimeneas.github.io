@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**March 2025:** Our paper "Divide and Conquer: Introducing Partial Multi-Variant Execution" got accepted at Euro S&P 2025. Congrats Jonas, Adriaan, and Stijn.   
+
 **February 2025:** Tenure, finally—through blisters and bedrock!
 
 This would never have been possible without the unwavering support of so many people, both professionally and personally. Grateful beyond words for the mentors, colleagues, friends, and family who guided, encouraged, and believed in me through every challenge and milestone!
