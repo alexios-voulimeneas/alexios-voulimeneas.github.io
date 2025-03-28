@@ -43,7 +43,7 @@ My research interests include:
 
 Divide and Conquer: Introducing Partial Multi-Variant Execution    
 Jonas Vinck, Adriaan Jacobs, Alexios Voulimeneas, and Stijn Volckaert.    
-(To Appear) In IEEE Symposium on Security and Privacy (Euro S&P 2025).
+(To Appear) In IEEE European Symposium on Security and Privacy (Euro S&P 2025).
 
 Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2025-218-paper.pdf)[[code]](https://github.com/yonsei-sslab/moneta)  
 Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Volckaert, and Dokyung Song.  
