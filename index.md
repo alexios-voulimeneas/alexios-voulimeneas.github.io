@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**May 2025:** Vissarion Moutafis successfully defended his MSc thesis and will be joining our group as a PhD student. Congratulations, Vissarion!  
+
 **March 2025:** Our paper "Divide and Conquer: Introducing Partial Multi-Variant Execution" got accepted at Euro S&P 2025. Congrats Jonas, Adriaan, and Stijn.   
 
 **February 2025:** Tenure, finally—through blisters and bedrock!
@@ -183,13 +185,16 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Current PhD Students
 
+Vissarion Moutafis (2025-Present, TU Delft)  
+
 Jesús María Gómez Moreno (2024-Present, TU Delft)  
 
 ## [](#header-2) Current Master Thesis Students  
 
-Vissarion Moutafis (2024-Present, TU Delft)  
 Ali Kahawati (2024-Present, TU Delft)   
 
 ## [](#header-2) Graduated Master Thesis Students
+
+Vissarion Moutafis (MSc 2025, TU Delft)  
 
 Wouter Jehee (MSc 2024, TU Delft)  
