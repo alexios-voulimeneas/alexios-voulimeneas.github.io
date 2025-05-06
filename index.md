@@ -8,7 +8,7 @@ layout: default
 
 **May 2025:** Vissarion Moutafis successfully defended his MSc thesis and will be joining our group as a PhD student. Congratulations, Vissarion!  
 
-**April 2025:** Our European project proposal was not accepted this round (0/1)!
+**April 2025:** Our European project proposal was not funded this round (0/1)!
 
 **March 2025:** Our paper "Divide and Conquer: Introducing Partial Multi-Variant Execution" got accepted at Euro S&P 2025. Congrats Jonas, Adriaan, and Stijn.   
 
