@@ -128,6 +128,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(CCS) ACM Conference on Computer and Communications Security, Treasurer, [2026]  
+
 (HotOS) ACM SIGOPS Workshop on Hot Topics in Operating Systems, Proceedings Chair [2027]  
 
 (SOSP) ACM Symposium on Operating Systems Principles, Artifact Evaluation Committee Chair [2026]    
