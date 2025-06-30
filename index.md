@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**June 2025:** Another proposal was not funded (0/3)!  
+
 **June 2025:** Another proposal was not funded (0/2)!  
 
 **May 2025:** Vissarion Moutafis successfully defended his MSc thesis and will be joining our group as a PhD student. Congratulations, Vissarion!  
