@@ -6,7 +6,7 @@ layout: default
 
 ## [](#header-2)News
 
-**July 2025:** Article in the Security Management Magazine about our recent ACSAC 2025 [[paper]](./papers/a8acsac2024.pdf) is [[out]](https://www.securitymanagement.nl/baanbrekend-onderzoek-versterkt-cybersecurity/). Thanks Sarala for the great interview and article!!!
+**July 2025:** Article at the Security Management Magazine about our recent ACSAC 2025 [[paper]](./papers/a8acsac2024.pdf) is [[out]](https://www.securitymanagement.nl/baanbrekend-onderzoek-versterkt-cybersecurity/). Thanks Sarala for the great interview and article!!!
 
 **June 2025:** Another proposal was not funded (0/3)!  
 
