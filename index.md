@@ -193,6 +193,10 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 [Since 2024] Systems Security
 
+## [](#header-2) Current Postdocs
+
+Antreas Dionysiou (2025-Present, TU Delft, Marie Skłodowska-Curie Postdoctoral Fellow Co-Hosting with Georgios Smaragdakis)
+
 ## [](#header-2) Current PhD Students
 
 Vissarion Moutafis (2025-Present, TU Delft)  
