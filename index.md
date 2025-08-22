@@ -6,7 +6,7 @@ layout: default
 
 ## [](#header-2)News
 
-**July 2025:** Article at the Security Management Magazine about our recent ACSAC 2025 [[paper]](./papers/a8acsac2024.pdf) is [[out]](https://www.securitymanagement.nl/baanbrekend-onderzoek-versterkt-cybersecurity/). Thanks Sarala for the great interview and article!!!
+**July 2025:** Article at the Security Management Magazine about our recent ACSAC 2024 [[paper]](./papers/a8acsac2024.pdf) is [[out]](https://www.securitymanagement.nl/baanbrekend-onderzoek-versterkt-cybersecurity/). Thanks Sarala for the great interview and article!!!
 
 **June 2025:** Another proposal was not funded (0/3)!  
 
@@ -133,6 +133,8 @@ Alexios Voulimeneas.
 B.Sc. Thesis Project report, Athens University of Economics and Business/Department of Informatics, 2012.
 
 ## [](#header-2) Professional Service
+
+(ISSN 2078-2489) Information, Reviewer, [2026]  
 
 (CCS) ACM Conference on Computer and Communications Security, Treasurer, [2026]  
 
