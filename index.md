@@ -134,7 +134,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
-(ISSN 2078-2489) Information, Reviewer, [2026]  
+(ISSN 2078-2489) Information, Reviewer, [2025]  
 
 (CCS) ACM Conference on Computer and Communications Security, Treasurer, [2026]  
 
