@@ -32,7 +32,7 @@ Congratulations and thanks to my co-authors André, Stijn, and Michael!
 
 ## [](#header-2)Bio
 
-I am a tenured Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/). I am also a visitor researcher at European Space Agency.
+I am a tenured Assistant Professor in the [Cybersecurity](https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people) research group at [TU Delft](https://www.tudelft.nl/). I lead the Secure Systems Lab (SSL) and I am also a visitor researcher at the European Space Agency.
 
 From September 2020 until August 2023, I was a Postdoctoral Scholar in the [DistriNet](https://distrinet.cs.kuleuven.be/) research group at [KU Leuven's Technology Campus](https://iiw.kuleuven.be/english/ghent/ghent) in Ghent, Belgium.
 
