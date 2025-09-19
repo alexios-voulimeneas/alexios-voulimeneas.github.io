@@ -15,7 +15,6 @@ layout: default
 **June 2025:** Another proposal was not funded (0/2)!  
 
 **May 2025:** Vissarion Moutafis successfully defended his MSc thesis and will be joining our group as a PhD student. Congratulations, Vissarion!  
-
 **April 2025:** Our European project proposal was not funded this round (0/1)!
 
 **March 2025:** Our paper "Divide and Conquer: Introducing Partial Multi-Variant Execution" got accepted at Euro S&P 2025. Congrats Jonas, Adriaan, and Stijn.   
@@ -52,6 +51,10 @@ My research interests include:
 *   Computer Networks and Distributed Systems
 
 ## [](#header-2)Publications
+
+Clair Obscure: The Light and Shadow of System Call Interposition – From Pitfalls to Solutions with K23  
+Jesús María Gómez, Vissarion Moutafis, Antreas Dionysiou, Fernando Kuipers, Georgios Smaragdakis, Bart Coppens, and Alexios Voulimeneas.  
+(To Appear) In ACM/IFIP International Middleware Conference (Middleware 2025).   
 
 Divide and Conquer: Introducing Partial Multi-Variant Execution [[PDF]](./papers/eurosp2025pmvx.pdf)[[code]](https://github.com/ReMon-MVEE/ReMon/releases/tag/eurosp-2025)    
 Jonas Vinck, Adriaan Jacobs, Alexios Voulimeneas, and Stijn Volckaert.    
