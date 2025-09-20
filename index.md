@@ -52,7 +52,8 @@ My research interests include:
 
 ## [](#header-2)Publications
 
-Clair Obscure: The Light and Shadow of System Call Interposition – From Pitfalls to Solutions with K23  
+Clair Obscure: The Light and Shadow of System Call Interposition –      
+From Pitfalls to Solutions with K23     
 Jesús María Gómez, Vissarion Moutafis, Antreas Dionysiou, Fernando Kuipers, Georgios Smaragdakis, Bart Coppens, and Alexios Voulimeneas.  
 (To Appear) In ACM/IFIP International Middleware Conference (Middleware 2025).   
 
