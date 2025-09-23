@@ -140,6 +140,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(ACM REP) General Chair, [2026]  
+
 (ISSN 2078-2489) Information, Reviewer, [2025]  
 
 (CCS) ACM Conference on Computer and Communications Security, Treasurer, [2026]  
@@ -168,7 +170,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (DIMVA) Conference on Detection of Intrusions and Malware & Vulnerability Assessment, Program Committee [2024]  
 
-(CCS) ACM Conference on Computer and Communications Security, Program Committee [2023, 2024]  
+(CCS) ACM Conference on Computer and Communications Security, Program Committee [2023, 2024, 2026]  
 **[Top Reviewer Award, 2023]**  
 
 (USENIX Security) USENIX Security Symposium, Artifact Evaluation Publication Chair [2023]
