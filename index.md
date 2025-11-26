@@ -140,6 +140,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(EuroSys) European Conference on Computer Systems, Program Committee [2023, 2027]   
+
 (ACM REP) General Chair, [2026]  
 
 (ISSN 2078-2489) Information, Reviewer, [2025]  
@@ -174,8 +176,6 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 **[Top Reviewer Award, 2023]**  
 
 (USENIX Security) USENIX Security Symposium, Artifact Evaluation Publication Chair [2023]
-
-(EuroSys) European Conference on Computer Systems, Program Committee [2023]
 
 (ASIACCS) ACM ASIA Conference on Computer and Communications Security, Program Committee [2023, 2024]  
 **[Best Reviewer Award, 2023]**  
