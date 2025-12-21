@@ -57,7 +57,7 @@ My research interests include:
 Clair Obscur: The Light and Shadow of System Call Interposition –      
 From Pitfalls to Solutions with K23 [[PDF]](./papers/K23_camera_ready.pdf)[[code]](https://gitlab.com/tudelft-ssl/k23)     
 Jesús María Gómez, Vissarion Moutafis, Antreas Dionysiou, Fernando Kuipers, Georgios Smaragdakis, Bart Coppens, and Alexios Voulimeneas.  
-(To Appear) In ACM/IFIP International Middleware Conference (Middleware 2025).   
+In ACM/IFIP International Middleware Conference (Middleware 2025).   
 
 Divide and Conquer: Introducing Partial Multi-Variant Execution [[PDF]](./papers/eurosp2025pmvx.pdf)[[code]](https://github.com/ReMon-MVEE/ReMon/releases/tag/eurosp-2025)    
 Jonas Vinck, Adriaan Jacobs, Alexios Voulimeneas, and Stijn Volckaert.    
@@ -217,9 +217,21 @@ Jesús María Gómez Moreno (2024-Present, TU Delft)
 
 ## [](#header-2) Current Master Thesis Students  
 
-Ali Kahawati (2024-Present, TU Delft)   
+Ioulios Patmanidis (2025-Present, TU Delft)
+
+Yigit Colakoglu (2025-Present, TU Delft)
+
+Matyáš Kollert (2025-Present, TU Delft)
+
+Daniel Péter (2025-Present, TU Delft)
+
+Camiel Vletter (2025-Present, TU Delft)
+
+Dimitris Ntatsis (2025-Present, TU Delft)
 
 ## [](#header-2) Graduated Master Thesis Students
+
+Ali Kahawati (MSc 2025, TU Delft)   
 
 Vissarion Moutafis (MSc 2025, TU Delft)  
 
