@@ -58,6 +58,7 @@ Clair Obscur: The Light and Shadow of System Call Interposition –
 From Pitfalls to Solutions with K23 [[PDF]](./papers/K23_camera_ready.pdf)[[code]](https://gitlab.com/tudelft-ssl/k23)     
 Jesús María Gómez, Vissarion Moutafis, Antreas Dionysiou, Fernando Kuipers, Georgios Smaragdakis, Bart Coppens, and Alexios Voulimeneas.  
 In ACM/IFIP International Middleware Conference (Middleware 2025).   
+**[Acceptance Rate: 21% (not including the rollover papers)]**
 
 Divide and Conquer: Introducing Partial Multi-Variant Execution [[PDF]](./papers/eurosp2025pmvx.pdf)[[code]](https://github.com/ReMon-MVEE/ReMon/releases/tag/eurosp-2025)    
 Jonas Vinck, Adriaan Jacobs, Alexios Voulimeneas, and Stijn Volckaert.    
@@ -67,7 +68,6 @@ Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States [[PDF]]
 Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Volckaert, and Dokyung Song.  
 In Network and Distributed System Security Symposium (NDSS 2025).  
 **[Acceptance Rate: 211/1311=16.1%]**  
-
 
 I’ll Be There for You! Perpetual Availability in the A<sup>8</sup> MVX System [[PDF]](./papers/a8acsac2024.pdf)[[code]](https://github.com/andrej/a8)     
 André Rösti, Stijn Volckaert, Michael Franz, and Alexios Voulimeneas.  
