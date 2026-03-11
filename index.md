@@ -142,6 +142,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(S&P) IEEE Symposium on Security and Privacy, Program Committee [2025, 2026, 2027]  
+
 (EuroSys) European Conference on Computer Systems, Proceedings Chair [2025, 2027]  
 
 (EuroSys) European Conference on Computer Systems, Program Committee [2023, 2027]   
@@ -161,8 +163,6 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 (SYSTOR) ACM International Systems and Storage Conference, Program Committee [2025]   
 
 (ACNS) International Conference on Applied Cryptography and Network Security, Program Committee [2025]  
-
-(S&P) IEEE Symposium on Security and Privacy, Program Committee [2025, 2026]  
 
 (USENIX Security) USENIX Security Symposium, Program Committee [2024, 2025, 2026]   
 
