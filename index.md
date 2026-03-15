@@ -150,6 +150,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (ACM REP) General Chair, [2026]  
 
+(RAID) International Symposium on Research in Attacks, Intrusions and Defenses, Program Committee [2026]  
+
 (ISSN 2078-2489) Information, Reviewer, [2025]  
 
 (CCS) ACM Conference on Computer and Communications Security, Treasurer, [2026]  
@@ -158,7 +160,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (SOSP) ACM Symposium on Operating Systems Principles, Artifact Evaluation Committee Chair [2026]    
 
-(ACSAC) Annual Computer Security Applications Conference, Program Committee [2025]  
+(ACSAC) Annual Computer Security Applications Conference, Program Committee [2025, 2026]  
 
 (SYSTOR) ACM International Systems and Storage Conference, Program Committee [2025]   
 
