@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**March 2026:** What a month. We got a paper rejected (even though scores were extremely good), and another proposal was not funded (0/5)!   
+
 **December 2025:** More "amazing" news. Another proposal was not funded (0/4)!
 
 **September 2025:** Our paper "Clair Obscur: The Light and Shadow of System Call Interposition – From Pitfalls to Solutions with K23" got accepted at Middleware 2025. Congrats Jesús, Vissarion, Antreas, Fernando, George, and Bart. For those who come after!     
