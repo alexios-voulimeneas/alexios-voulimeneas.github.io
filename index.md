@@ -144,7 +144,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
-(ORCA) Open Robust Compartmentalization Alliance, Technical Steering Committee for [2026]  
+(ORCA) Open Robust Compartmentalization Alliance, Technical Steering Committee [2026]  
 
 (S&P) IEEE Symposium on Security and Privacy, Program Committee [2025, 2026, 2027]  
 
