@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**April 2026:** Another month, another rejection, for a paper submission this time!  
+
 **March 2026:** What a month. We got a paper rejection (even though scores were extremely good), and another proposal was not funded (0/5)!   
 
 **December 2025:** More "amazing" news. Another proposal was not funded (0/4)!
