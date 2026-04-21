@@ -227,8 +227,6 @@ Jesús María Gómez Moreno (2024-Present, TU Delft)
 
 Ioulios Patmanidis (2025-Present, TU Delft)
 
-Yigit Colakoglu (2025-Present, TU Delft)
-
 Matyáš Kollert (2025-Present, TU Delft)
 
 Daniel Péter (2025-Present, TU Delft)
@@ -238,6 +236,8 @@ Camiel Vletter (2025-Present, TU Delft)
 Dimitris Ntatsis (2025-Present, TU Delft)
 
 ## [](#header-2) Graduated Master Thesis Students
+
+Yigit Colakoglu (MSc 2026, TU Delft)
 
 Ali Kahawati (MSc 2025, TU Delft)   
 
