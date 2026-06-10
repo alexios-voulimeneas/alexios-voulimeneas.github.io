@@ -146,6 +146,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(USENIX Security) USENIX Security Symposium, Program Committee [2024, 2025, 2026, 2027]   
+
 (ORCA) Open Robust Compartmentalization Alliance, Technical Steering Committee [2026]  
 
 (S&P) IEEE Symposium on Security and Privacy, Program Committee [2025, 2026, 2027]  
@@ -171,8 +173,6 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 (SYSTOR) ACM International Systems and Storage Conference, Program Committee [2025]   
 
 (ACNS) International Conference on Applied Cryptography and Network Security, Program Committee [2025]  
-
-(USENIX Security) USENIX Security Symposium, Program Committee [2024, 2025, 2026]   
 
 (Middleware) ACM/USENIX/IFIP International Middleware Conference, Program Committee [2023, 2025] 
 
