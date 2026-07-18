@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**July 2026:** "Good" news continue. We got a paper rejection (even though work is superb). Unfortunately, 2/3 reviews look completely llm generated, and of low scientific value.
+
 **April 2026:** Another month, another rejection, for a paper submission this time!  
 
 **March 2026:** What a month. We got a paper rejection (even though scores were extremely good), and another proposal was not funded (0/5)!   
