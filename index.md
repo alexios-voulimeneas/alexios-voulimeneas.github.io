@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**October 2026:** Our paper "IBTpoline: Flexible, Robust, and Intel IBT-compliant System Call Hooking" got accepted at ATC 2026. Congrats, to Alex for leading this work and to the rest of the authors!!!  
+
 **July 2026:** This month ends strong with another paper rejection and one more proposal rejection.
 
 **July 2026:** "Good" news continue. We got a paper rejection (even though work is superb). Unfortunately, 2/3 reviews look completely llm generated, and of low scientific value.
