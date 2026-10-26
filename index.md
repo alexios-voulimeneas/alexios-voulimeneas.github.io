@@ -64,6 +64,12 @@ My research interests include:
 
 ## [](#header-2)Publications
 
+IBTpoline: Flexible, Robust, and Intel IBT-compliant System Call Hooking [[PDF]](./papers/atc26-final847.pdf)[[code]](https://zenodo.org/records/23201689)  
+Alexander J. Gaidis, Ioulios Patmanidis, Isabelle Shapiro, Georgios Portokalidis, Alexios Voulimeneas, and Vasileios P. Kemerlis.   
+To appear in Proceedings of the SIGOPS Annual Technical Conference (ATC), Hong Kong, Hong Kong, November 2026.   
+**[Acceptance Rate: 13.9%]**    
+**Artifact Evaluation Badges:** <img src="generic_available.png" width = 15> <img src="generic_evaluated.png" width = 15> <img src="generic_results.png" width = 15>
+
 Clair Obscur: The Light and Shadow of System Call Interposition –      
 From Pitfalls to Solutions with K23 [[PDF]](./papers/K23_camera_ready.pdf)[[code]](https://gitlab.com/tudelft-ssl/k23)     
 Jesús María Gómez, Vissarion Moutafis, Antreas Dionysiou, Fernando Kuipers, Georgios Smaragdakis, Bart Coppens, and Alexios Voulimeneas.  
