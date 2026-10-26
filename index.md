@@ -152,6 +152,9 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Professional Service
 
+(CCS) ACM Conference on Computer and Communications Security, Program Committee [2023, 2024, 2026, 2027]  
+**[Top Reviewer Award, 2023]** 
+
 (USENIX Security) USENIX Security Symposium, Program Committee [2024, 2025, 2026, 2027]   
 
 (ORCA) Open Robust Compartmentalization Alliance, Technical Steering Committee [2026]  
@@ -186,10 +189,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (EuroSec) European Workshop on System Security, Program Committee  [2024, 2025, 2026]  
 
-(DIMVA) Conference on Detection of Intrusions and Malware & Vulnerability Assessment, Program Committee [2024]  
-
-(CCS) ACM Conference on Computer and Communications Security, Program Committee [2023, 2024, 2026]  
-**[Top Reviewer Award, 2023]**  
+(DIMVA) Conference on Detection of Intrusions and Malware & Vulnerability Assessment, Program Committee [2024]   
 
 (USENIX Security) USENIX Security Symposium, Artifact Evaluation Publication Chair [2023]
 
