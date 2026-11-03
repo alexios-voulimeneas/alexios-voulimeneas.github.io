@@ -227,6 +227,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 ## [](#header-2) Current Postdocs
 
+## [](#header-2) Former Postdocs
+
 Antreas Dionysiou (2025-2026, TU Delft, Marie Skłodowska-Curie Postdoctoral Fellow Co-Hosting with Georgios Smaragdakis. Now Faculty at TU Delft.)
 
 ## [](#header-2) Current PhD Students
