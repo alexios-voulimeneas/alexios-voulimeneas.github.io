@@ -6,6 +6,8 @@ layout: default
 
 ## [](#header-2)News
 
+**November 2026:** Extremely happy to have received another Top Reviewers Award … this time at ACM CCS 2026!
+
 **October 2026:** Our paper "IBTpoline: Flexible, Robust, and Intel IBT-compliant System Call Hooking" got accepted at ATC 2026. Congrats, to Alex for leading this work and to the rest of the authors!!!  
 
 **July 2026:** This month ends strong with another paper rejection and one more proposal rejection.
@@ -238,6 +240,16 @@ Vissarion Moutafis (2025-Present, TU Delft)
 Jesús María Gómez Moreno (2024-Present, TU Delft)  
 
 ## [](#header-2) Current Master Thesis Students  
+
+Andreas Tsatsanis (2026-Present, TU Delft)    
+
+Filip Błaszczyk (2026-Present, TU Delft)    
+
+Gokul Saravanan (2026-Present, TU Delft)    
+
+Yurian Lagrand (2026-Present, TU Delft)    
+
+Theodoros Lazaris (2026-Present, TU Delft)    
 
 Camiel Vletter (2025-Present, TU Delft)
 
