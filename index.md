@@ -159,7 +159,7 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 ## [](#header-2) Professional Service
 
 (CCS) ACM Conference on Computer and Communications Security, Program Committee [2023, 2024, 2026, 2027]  
-**[Top Reviewer Award, 2023]** 
+**[Top Reviewer Award, 2023, 2026]** 
 
 (USENIX Security) USENIX Security Symposium, Program Committee [2024, 2025, 2026, 2027]   
 
