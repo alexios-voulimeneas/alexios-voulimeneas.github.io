@@ -173,6 +173,8 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 
 (EuroSys) European Conference on Computer Systems, Program Committee [2023, 2027]   
 
+(DIMVA) Conference on Detection of Intrusions and Malware & Vulnerability Assessment, Program Committee [2024, 2027]   
+
 (ACM REP) General Chair, [2026]  
 
 (RAID) International Symposium on Research in Attacks, Intrusions and Defenses, Program Committee [2026]  
@@ -196,8 +198,6 @@ B.Sc. Thesis Project report, Athens University of Economics and Business/Departm
 (ISC) Information Security Conference, Program Committee [2024, 2025]  
 
 (EuroSec) European Workshop on System Security, Program Committee  [2024, 2025, 2026]  
-
-(DIMVA) Conference on Detection of Intrusions and Malware & Vulnerability Assessment, Program Committee [2024]   
 
 (USENIX Security) USENIX Security Symposium, Artifact Evaluation Publication Chair [2023]
 
